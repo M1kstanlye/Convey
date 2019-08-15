@@ -2,6 +2,7 @@ body, html{
     font-family: 'Just Another Hand', cursive;
     font-size:30px;
     background-color: #F4F7F5;
+     height: 100%;
 
 }
 
@@ -57,4 +58,19 @@ li a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
   color:#6CCFF6;
+  font-size: 25px;
 }
+
+#info{
+    font-family: 'just Another Hand', cursive;
+    font-size:30px;
+    background-color: #F4F7F5;
+}
+
+#FAOinfo{
+    border: solid #3CBBB1;
+ }
+
+
+
+
