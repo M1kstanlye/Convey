@@ -1,4 +1,37 @@
-back-ground{color: #FFFFFF
+body{
+    font-family: 'just Another Hand', cursive;
+    font-size:30px;
+    background-color: #F4F7F5;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #333;
+}
+
+li {
+ float: left;
+}
+
+li a {
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+li a:hover {
+ background-color: red;
+}
+#PtSansNarrow{
+    font-family: 'PtSansNarrow', sans-serif;
+    font-size: 20px;
+}
+back-ground{
+    color: #FFFFFF
 }
 body, html {
     height: 100%;
@@ -26,28 +59,9 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:#6CCFF6;
+  color: #6CCFF6;
 }
+ #FAOinfo{
+    border: solid #3CBBB1;
+ }
 
-ul {
- list-style-type: none;
- margin: 0;
- padding: 0;
- overflow: hidden;
- background-color: #333;
-}
-
-li {
- float: left;
-}
-
-li a {
- display: block;
- color: white;
- text-align: center;
- padding: 14px 16px;
- text-decoration: none;
-}
-
-li a:hover {
- background-color: red;
